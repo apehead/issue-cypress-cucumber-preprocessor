@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "17.2.0",
+    "@cypress/webpack-preprocessor": "5.17.1",
+    "cypress": "12.13.0",
+    "webpack": "5.84.1"
+  }
+}
